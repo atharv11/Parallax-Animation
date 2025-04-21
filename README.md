@@ -8,7 +8,8 @@ This project showcases a smooth **parallax scrolling effect** using React, Frame
 
 Below is a GIF preview showing the scrolling animation in action:
 
-![Scroll Animation Demo](./ViteReact-GoogleChrome2025-04-2115-57-59-ezgif.com-video-to-gif-converter.gif)
+![ViteReact-GoogleChrome2025-04-2115-57-59-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/337ad0dc-fc18-492f-966b-e6a3d58b8599)
+
 
 ---
 
