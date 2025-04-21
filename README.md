@@ -1,12 +1,85 @@
-# React + Vite
+# 🌀 FrontEnd Developer Scroll Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project showcases a smooth **parallax scrolling effect** using React, Framer Motion, Lenis, and Tailwind CSS. It visually animates the phrase "FrontEnd Developer" alongside styled images that scroll in different directions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Demo Preview
 
-## Expanding the ESLint configuration
+Below is a GIF preview showing the scrolling animation in action:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Scroll Animation Demo](./ViteReact-GoogleChrome2025-04-2115-57-59-ezgif.com-video-to-gif-converter.gif)
+
+---
+
+## 🛠 Built With
+
+- **React** – Front-end JavaScript library
+- **Framer Motion** – Declarative animations
+- **Lenis** – Smooth scrolling utility
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vite** – Lightning fast dev environment
+
+---
+
+## 📁 Project Structure
+
+src/ ├── assets/ # Store images like Flower-Crown.webp, futuristic-c.jpg, child.jpg ├── components/ │ └── ParallelAnim.jsx # Core scroll animation component ├── App.jsx └── main.jsx
+
+yaml
+Copy
+Edit
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/frontend-scroll-animation.git
+cd frontend-scroll-animation
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Start the Development Server
+bash
+Copy
+Edit
+npm run dev
+4. View in Your Browser
+Navigate to:
+
+arduino
+Copy
+Edit
+http://localhost:5173
+📦 Required Packages
+Install these if not already present:
+
+bash
+Copy
+Edit
+npm install framer-motion lenis
+🖼 Image Assets
+Make sure you include the following images in your public/ or src/assets/ folder:
+
+Flower-Crown.webp
+
+futuristic-c.jpg
+
+child.jpg
+
+📸 Preview GIF
+The included demo GIF shows the actual animation in a browser:
+
+
+You can replace or compress it if needed for optimization.
+
+📄 License
+This project is licensed under the MIT License. Feel free to use, modify, and share!
+
+💬 Feedback & Contributions
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
