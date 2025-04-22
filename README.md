@@ -25,7 +25,12 @@ Below is a GIF preview showing the scrolling animation in action:
 
 ## 📁 Project Structure
 
-src/ ├── assets/ # Store images like Flower-Crown.webp, futuristic-c.jpg, child.jpg ├── components/ │ └── ParallelAnim.jsx # Core scroll animation component ├── App.jsx └── main.jsx
+src/
+├── assets/ # Store images like Flower-Crown.webp, futuristic-c.jpg, child.jpg
+ ├── components/
+  │ └── ParallelAnim.jsx # Core scroll animation component 
+   ├── App.jsx  
+   └── main.jsx
 
 yaml
 Copy
